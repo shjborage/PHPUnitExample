@@ -79,9 +79,10 @@ OK (1 test, 1 assertion)
 比较好理解，加载一个类，然后执行相应的单元测试。
 [PHPUnit 完整例子](https://github.com/shjborage/PHPUnitExample)
 
-还要看相应的文档，了解一下高级用法。
+还要看相应的 [文档](https://phpunit.de/documentation.html)，了解一下高级用法。
 
 ## 高级用法
+// TODO
 
 ## Refs
 [Getting Started with PHPUnit](https://phpunit.de/getting-started.html)
